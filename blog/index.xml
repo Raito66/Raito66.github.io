@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on 萊特部落格</title>
-    <link>https://Raito66.github.io/blog/</link>
+    <link>https://raito66.github.io/blog/</link>
     <description>Recent content in Blogs on 萊特部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 16 Sep 2023 12:26:00 +0800</lastBuildDate><atom:link href="https://Raito66.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 12:26:00 +0800</lastBuildDate><atom:link href="https://raito66.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>萊特的第一篇文章</title>
-      <link>https://Raito66.github.io/blog/test/</link>
+      <link>https://raito66.github.io/blog/test/</link>
       <pubDate>Sat, 16 Sep 2023 12:26:00 +0800</pubDate>
       
-      <guid>https://Raito66.github.io/blog/test/</guid>
+      <guid>https://raito66.github.io/blog/test/</guid>
       <description>Hello World
 我是萊特
 一級標題 二級標題 六級標題 我是萊特,我喜歡學習
 萊特 how what Hello Hello What are you Hello</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://Raito66.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Raito66.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Raito66.github.io/blog/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Raito66.github.io/blog/test2/</guid>
-      <description>Hello print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) 我是萊特</description>
     </item>
     
   </channel>
